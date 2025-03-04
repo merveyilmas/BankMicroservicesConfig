@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MeryilBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@meryilbank.com"
+    email: "{cipher}252667a251a3aa45c670c36b20e4d119627e7c56c0579afcf42685af0886f3eee068a331c8bbd8190ea7ef2f8a88e944"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
