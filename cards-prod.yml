@@ -10,7 +10,7 @@ cards:
   message: "Welcome to MeryilBank cards related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    email: "{cipher}086434bfef10920dca90533a90f701e9c626a1920e815dee111f2e3c2ee018deaa34b804ff8138ce635c993ae40d64ac"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
