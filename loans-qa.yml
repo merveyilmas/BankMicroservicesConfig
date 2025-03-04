@@ -10,7 +10,7 @@ loans:
   message: "Welcome to MeryilBank loans related QA APIs "
   contactDetails:
     name: "Cyrano Marita - QA Lead"
-    email: "cyrano@meryilbank.com"
+    email: "{cipher}b606d2bdec4603c8ce7cea8047d07792c9334172fc9debcb428604539ac6df8a80e3029768e26055e18dd73053612023"
   onCallSupport:
     - (785) 545-6565
     - (853) 546-3467
