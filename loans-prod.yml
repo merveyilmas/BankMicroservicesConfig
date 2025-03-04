@@ -10,7 +10,7 @@ loans:
   message: "Welcome to meryilBank loans related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
-    email: "pelias@meryilbank.com"
+    email: "{cipher}16eafb5cd8e7cf1b7243b1f047ffb3db2c07eea9867a28fad27fbf00888ccbe86cec6f00091ff2da92d5f8c65e26dcfd"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
