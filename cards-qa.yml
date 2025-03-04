@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to MeryilBank cards related QA _ APIs "
+  message: "Welcome to MeryilBank cards related QA APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "{cipher}3e63ab283e650184400dd15575d5f512f9b5b48bfd62b1925f1c39f2cddaa9a606dcd976f26af95a80f2e7a828881810"
