@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to MeryilBank loans related QA APIs "
+  message: "Welcome to MeryilBank loans related QA _ APIs "
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "{cipher}b606d2bdec4603c8ce7cea8047d07792c9334172fc9debcb428604539ac6df8a80e3029768e26055e18dd73053612023"
